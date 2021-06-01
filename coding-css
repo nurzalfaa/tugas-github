@@ -65,5 +65,5 @@ button:hover
 
 .hasil
 {
-	font-size: 100px
+	font-size: 50px
 }

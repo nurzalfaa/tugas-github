@@ -14,7 +14,7 @@ body
 	max-width: 800px;
 	max-height: 1000px;
 	margin: 70px auto;
-	text-align: center;
+	text-align: right;
 }
 .jumbotron
 {
@@ -51,7 +51,6 @@ body
 	width: 250px;
 	border-radius: 5px;
 	border: 1px solid black;
-	box-shadow: 0 0 10px gray;
 	margin-bottom: 20px;
 }
 

@@ -1,0 +1,76 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 80px;
+	background-color: grey;
+}
+
+.container
+{
+	max-width: 800px;
+	max-height: 1000px;
+	margin: 70px auto;
+	text-align: center;
+}
+.jumbotron
+{
+	padding: 1px;
+	max-height: 500px;
+	box-shadow: 0 8px 16px -6px black;
+	z-index: 2;
+	position: relative;
+}
+
+.title
+{
+	margin-bottom: 70px;
+	font-size: 50px;
+	text-shadow: 1px 1px 1px cyan;
+}
+
+.text
+{
+	font-size: 10px;
+}
+
+.komputer
+{
+	font-size: 40px;
+	margin-bottom: 70px;
+}
+
+.input-user
+{
+	padding: 10px;
+	font-size: 20px;
+	text-align: center;
+	width: 250px;
+	border-radius: 5px;
+	border: 1px solid black;
+	box-shadow: 0 0 10px gray;
+	margin-bottom: 20px;
+}
+
+.kirim
+{
+	background-color: darksalmon;
+	border: 1px solid black;
+	padding: 5px 20px 5px 20px;
+	border-radius: 5px;
+	margin-bottom: 40px;
+}
+
+button:hover
+{
+	background-color: lightgreen;
+}
+
+.hasil
+{
+	font-size: 20px
+}

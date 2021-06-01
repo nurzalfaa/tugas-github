@@ -1,6 +1,7 @@
 TUGAS GITHUB
-- Nama  : Nur Zalfaa A. Mohi
-- NIM   : 531419022
-- Kelas : A
-- MK    : Teknologi Open Source (TOS)
+- Nama    : Nur Zalfaa A. Mohi
+- NIM     : 531419022
+- Kelas   : A
+- MK      : Teknologi Open Source
 - Jurusan : Teknik Informatika
+- Prodi   : Sistem Informasi

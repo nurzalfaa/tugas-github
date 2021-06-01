@@ -3,6 +3,11 @@
 	padding: 0;
 }
 
+body
+{
+	font-family: Arial, Helvetica, sans-serif;
+	margin: 80px;
+	background-color: grey;
 
 .container
 {
@@ -58,12 +63,7 @@
 	margin-bottom: 40px;
 }
 
-button:hover
-{
-	background-color: lightgreen;
-}
-
 .hasil
 {
-	font-size: 50px
+	font-size: 20px
 }
